@@ -3,7 +3,7 @@ The script is for playing a shared youtube playlist to a public amplifier. Parti
 
 The playlist will be store in youtube_playlist.json. Just append youtube link to that file. 
 
-To run the script:
+This is for mac computer. To run the script:
 ```
 python youtube_playlist.py
 ```
